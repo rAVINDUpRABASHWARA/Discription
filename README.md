@@ -1,5 +1,5 @@
-<h2 align="center">Ashen Wijesingha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+<h2 align="center">Ravindu Prabashwara Jayathilaka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+<h3 align="center">I'm a Student At SLIIT</h3>
  <h4 align="center">Undergraduate</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AshenWijesingha" alt="AshenWijesingha" /> </p>
