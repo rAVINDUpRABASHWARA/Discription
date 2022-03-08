@@ -61,9 +61,9 @@
 <br/>
 <br/>
 
-
+<!--
 <a href="https://github.com/AshenWijesingha/github-readme-activity-graph"><img alt="Ashen Wijesingha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AshenWijesingha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+-->
 <br/>
 <br/>
 
