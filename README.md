@@ -188,7 +188,7 @@
 ![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
 -->
 
-[twitter]: https://twitter.com/ashen_wijesingh
-[instagram]: https://instagram.com/ashen_wijesingha
-[linkedin]: https://linkedin.com/in/ashen-wijesinghe-89137312b/
-[facebook]: https://www.facebook.com/ashen.dilshan.96
+<!--[twitter]: https://twitter.com/ashen_wijesingh
+[instagram]: https://instagram.com/ashen_wijesingha -->
+[linkedin]: https://www.linkedin.com/in/ravindu-jayathilaka-30b628229/
+[facebook]: https://www.facebook.com/ravindu.prabashwara.75/
